@@ -1,1 +1,10 @@
-{}
+{
+    "Tweaks":[
+        {
+            "icon":"https://www.svgrepo.com/download/508993/windows.svg",
+            "name":"KMSauto",
+            "description":"Activate Windows 7/10/11/12",
+            "path":"https://github.com/RatiborusKMS/kmsauto/raw/refs/heads/main/KMSAuto++%20Portable%20v1.6.5.zip"
+        }
+    ]
+}
