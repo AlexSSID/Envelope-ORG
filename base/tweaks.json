@@ -8,6 +8,13 @@
             "password": "1111"
         },
         {
+            "icon": "https://raw.githubusercontent.com/AlexSSID/Envelope-ORG/refs/heads/main/tweaks/win10tweaker/win10tweaker.svg",
+            "name": "Win10Tweaker",
+            "description": "This is a small-sized but highly powerful program that allows you to fully optimize Windows in just a few clicks.",
+            "path": "https://github.com/AlexSSID/Envelope-ORG/raw/refs/heads/main/tweaks/win10tweaker/Win10Tweaker.zip",
+            "password": "1111"
+        },
+        {
             "icon": "https://raw.githubusercontent.com/AlexSSID/Envelope-ORG/refs/heads/main/tweaks/subnautica/icon.svg",
             "name": "Nitrox Alpha",
             "description": "Latest build (Alpha 1.8.0.0) of multiplayer mod for Subnautica",
@@ -20,14 +27,8 @@
             "description": "Terraria 1.4.4.9",
             "path": "https://cloclo51.cloud.mail.ru/public/o2LEuctJvhYwWkYoPKs/g/denius.vankov.16@bk.ru/amxe/E9X5BDNEi",
             "password": "None"
-        },
-        {
-            "icon": "https://raw.githubusercontent.com/AlexSSID/Envelope-ORG/refs/heads/main/tweaks/win10tweaker/win10tweaker.svg",
-            "name": "Win10Tweaker",
-            "description": "This is a small-sized but highly powerful program that allows you to fully optimize Windows in just a few clicks.",
-            "path": "https://github.com/AlexSSID/Envelope-ORG/raw/refs/heads/main/tweaks/win10tweaker/Win10Tweaker.zip",
-            "password": "1111"
         }
+
         
     ]
 }
