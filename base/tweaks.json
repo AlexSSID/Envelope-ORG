@@ -4,13 +4,15 @@
             "icon":"https://www.svgrepo.com/download/508993/windows.svg",
             "name":"KMSauto",
             "description":"Activate Windows 7/10/11/12",
-            "path":"https://github.com/RatiborusKMS/kmsauto/raw/refs/heads/main/KMSAuto++%20Portable%20v1.6.5.zip"
+            "path":"https://github.com/RatiborusKMS/kmsauto/raw/refs/heads/main/KMSAuto++%20Portable%20v1.6.5.zip",
+            "password": "1111"
         },
         {
             "icon": "https://raw.githubusercontent.com/AlexSSID/Envelope-ORG/refs/heads/main/tweaks/subnautica/icon.svg",
             "name": "Nitrox Alpha",
             "description": "Latest build (Alpha 1.8.0.0) of multiplayer mod for Subnautica",
-            "path": "https://github.com/AlexSSID/Envelope-ORG/raw/refs/heads/main/tweaks/subnautica/Nitrox_latestAlpha.7z"
+            "path": "https://github.com/AlexSSID/Envelope-ORG/raw/refs/heads/main/tweaks/subnautica/Nitrox_latestAlpha.7z",
+            "password": "Non"
         }
     ]
 }
