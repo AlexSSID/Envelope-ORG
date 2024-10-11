@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="32" height="32" viewBox="0 0 800 800" xml:space="preserve">
+<desc>Created by IconsBot.com 5.3.0</desc>
+<defs>
+</defs>
+<g transform="matrix(1 0 0 1 400 400)"  >
+<g style=""   >
+		<g transform="matrix(16.67 0 0 16.67 126.11 0.03)"  >
+<polyline style="stroke: rgb(0,0,0); stroke-width: 0.9367; stroke-dasharray: none; stroke-linecap: round; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;"  points="4.63,11.22 4.63,-11.22 -7.43,3.93 7.43,3.93 " />
+</g>
+		<g transform="matrix(16.67 0 0 16.67 -123.86 63.02)"  >
+<circle style="stroke: rgb(0,0,0); stroke-width: 0.9367; stroke-dasharray: none; stroke-linecap: round; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="7.571" />
+</g>
+		<g transform="matrix(16.67 0 0 16.67 -130.87 -63.16)"  >
+<path style="stroke: rgb(0,0,0); stroke-width: 0.9367; stroke-dasharray: none; stroke-linecap: round; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;"  transform=" translate(-16.15, -20.21)" d="M 23.2982 15.4433 C 22.1765 13.760900000000001 20.213700000000003 12.6393 17.1292 12.6393 L 16.5684 12.6393 C 14.557918131799202 12.631016960273623 12.62738830703018 13.426013451828426 11.205750879429303 14.847650879429306 C 9.784113451828425 16.269288307030184 8.989116960273622 18.1998181317992 8.9974 20.2103 L 8.9974 27.7813" stroke-linecap="round" />
+</g>
+		<g transform="matrix(16.67 0 0 16.67 0 0)"  >
+<circle style="stroke: rgb(0,0,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: round; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="21.5" />
+</g>
+</g>
+</g>
+</svg>
